@@ -102,7 +102,16 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&v=2)](https://github.com/Yancheng-s/ProfileMax)
+<div align="center">
+
+<a href="https://github.com/Yancheng-s/ProfileMax">
+  <img src="https://img.shields.io/github/stars/Yancheng-s/ProfileMax?style=for-the-badge&logo=github&logoColor=white&label=ProfileMax%20Stars&color=A78BFA">
+</a>
+<a href="https://github.com/Yancheng-s/ProfileMax">
+  <img src="https://img.shields.io/github/license/Yancheng-s/ProfileMax?style=for-the-badge&label=License&color=blue">
+</a>
+
+</div>
 
 </div>
 
