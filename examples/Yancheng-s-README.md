@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Yancheng-s/ProfileMax"><img src="https://github-readme-stats.vercel.app/api/pin?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27"></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&v=2)](https://github.com/Yancheng-s/ProfileMax)
 
 </div>
 
