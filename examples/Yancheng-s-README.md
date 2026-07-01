@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Yancheng-s/ProfileMax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27"></a>
+<a href="https://github.com/Yancheng-s/ProfileMax"><img src="https://github-readme-stats.vercel.app/api/pin?username=Yancheng-s&repo=ProfileMax&theme=dracula&hide_border=true&bg_color=1A1B27"></a>
 
 </div>
 
