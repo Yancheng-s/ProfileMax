@@ -217,7 +217,9 @@ rm -rf profilemax-deploy
 
 ## 重要规则
 
-1. 生成 README 时，所有 `{{USERNAME}}` 必须替换为实际的用户名，不要留占位符让用户自己改
+1. **github-profile-trophy 公共实例不可靠** — 主实例 `github-profile-trophy.vercel.app` 因用户过多频繁过载。生成 README 时使用社区镜像 `github-profile-trophy-liard-delta.vercel.app` 作为默认。如果镜像也不可用，提示用户自建实例或跳过该组件。
+2. **github-readme-stats 公共实例可能有延迟** — 如果统计卡片不显示，添加 `&v=timestamp` 参数强制刷新缓存。
+3. 生成 README 时，所有 `{{USERNAME}}` 必须替换为实际的用户名，不要留占位符让用户自己改
 2. 如果用户没给技术栈，不要瞎编 — 问清楚再继续
 3. skill-icons 优先于 shields.io 展示技术栈（更好看、更统一）
 4. 所有 shields.io 徽章的 logo 参数用官方 slug（小写），不要自定义
