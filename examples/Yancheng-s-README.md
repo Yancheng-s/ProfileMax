@@ -43,9 +43,7 @@
 
 ### 成就殿堂
 
-![GitHub followers](https://img.shields.io/github/followers/Yancheng-s?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=A78BFA&labelColor=1A1B27)
-![GitHub stars](https://img.shields.io/github/stars/Yancheng-s?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FFD700&labelColor=1A1B27)
-![GitHub repo count](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=00D26A&labelColor=1A1B27&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYancheng-s)
+![GitHub Trophies](https://trophy.ryglcloud.net/?username=Yancheng-s&theme=dracula&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)
 
 ---
 
