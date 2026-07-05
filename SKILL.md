@@ -54,7 +54,9 @@ c. 社交链接 (Twitter/B站/知乎/掘金等)
 d. 关于我段落
 e. 访客计数器
 f. 贪吃蛇动画 (需要配置 GitHub Action)
-g. 都不要
+g. 编程笑话 / 每日名言
+h. 3D 贡献图 (需要配置 GitHub Action)
+i. 都不要
 ```
 
 ### 第二步：拼接 README
@@ -214,6 +216,7 @@ rm -rf profilemax-deploy
 | 波浪头图 (capsule-render) | components/animations.md |
 | 关于我 / 博客 / 项目展示 / 社交链接 | components/content-sections.md |
 | GitHub Actions 自动更新 | components/actions.md |
+| 编程笑话 / 每日名言 / 3D 贡献图 | components/extra-widgets.md |
 
 ## 重要规则
 
