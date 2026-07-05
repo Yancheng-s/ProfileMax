@@ -17,6 +17,9 @@
 | [youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) | YouTube 订阅数 | 可选 |
 | [lowlighter/metrics](https://github.com/lowlighter/metrics) | 40+ 插件信息图生成器 | ⭐ 推荐 |
 | [coolreadme.xyz](https://coolreadme.xyz) | 34+ 卡片（宠物/Netflix/Steam/YC/HN等） | ⭐ 推荐（见下方） |
+| [DevDNA](https://devdna.netlify.app) | 开发者性格分析卡片（需自建实例绕过 API 限流） | ⭐ 2026 新品 |
+| [galaxy-profile](https://github.com/vinimlo/galaxy-profile) | 星系风格个人主页（需 Action） | ⭐ 趣味 |
+| [statsvg-rs](https://github.com/akshay2211/statsvg_rs) | Rust 渲染 SVG 统计（Action 生成，零服务器） | ⭐ 创新方案 |
 
 > 注：以上公共实例偶有过载，如需稳定使用可 fork 对应仓库并自建 Vercel 实例。
 

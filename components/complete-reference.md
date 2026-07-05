@@ -150,6 +150,10 @@
 | lowlighter/metrics | `https://github.com/lowlighter/metrics` | 40+ 插件、200+ 选项信息图生成器 | ✅ 推荐 |
 | coolreadme.xyz | `https://coolreadme.xyz` | 34+ 卡片一键嵌入 | ✅ 推荐 |
 | GitStrength | `https://gitstrength.netlify.app` | 连胜卡+技能徽章+访客计数 | ✅ 可选 |
+| DevDNA | `https://devdna.netlify.app/api/dev-dna?username=&theme=dark` | 开发者性格分析卡片（Builder/Problem Solver 等） | ⚠️ 公共实例受限于 GitHub API，建议自建 |
+| galaxy-profile | `https://github.com/vinimlo/galaxy-profile` | 星系风格个人主页（需 Action） | ✅ 趣味 |
+| statsvg-rs | `https://github.com/akshay2211/statsvg_rs` | Rust 渲染 SVG 统计卡（无服务器，Action 生成） | ✅ 创新方案 |
+| GitSkins | `https://devpost.com/software/gitskins` | Gemini 3 驱动的个人主页生成器 | ✅ AI 工具 |
 | github-profile-readme-generator | `https://rahuldkjain.github.io/gh-profile-readme-generator/` | Web UI 生成器 | ✅ 在线工具 |
 | profilinator | `https://profilinator.rishav.dev/` | 可视化 README 生成器 | ✅ 在线工具 |
 | gprm | `https://gprm.itsvg.in/` | GitHub Profile README Maker | ✅ 在线工具 |
