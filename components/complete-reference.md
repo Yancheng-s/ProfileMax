@@ -1,6 +1,6 @@
 <!--
   ProfileMax 工具百科 — GitHub Profile README 生态完整索引
-  收录已知的所有免费工具/服务（约 120+）
+  收录已知的所有免费工具/服务（约 130+）
   分类：统计数据 / 奖杯成就 / 徽章图标 / 技术栈 / 动效 / 音乐媒体 / 社交活动 / 项目卡片 / 访客计数 / 趣味 / 生成器 / 模板 / 综合
 -->
 
@@ -30,6 +30,7 @@
 | LeetCode Stats Card | `https://leetcard.jacoblin.cool/` | LeetCode 刷题统计卡 | ✅ 竞赛玩家 |
 | Stats-SVG | `https://github.com/gh0stintheshe11/Stats-SVG` | 赛博朋克风格 GitHub+LeetCode+Steam 综合统计（需自建） | ✅ 多合一 |
 | advanced-metrics | `https://github.com/Ivan-Corporation/advanced-metrics` | Action 驱动的 GitHub 进阶统计信息图 | ✅ 需 Action |
+| WeebProfile | `https://github.com/LucasHenriqueDiniz/WeebProfile` | Anime + Last.fm + GitHub 综合统计卡（需 Action） | ✅ 二次元趣味 |
 
 ## 二、成就奖杯
 
@@ -167,7 +168,19 @@
 | Chocolatey | `https://img.shields.io/chocolatey/dt/包名` | Chocolatey 总下载量 |
 | GitHub Release | `https://img.shields.io/github/v/release/用户/仓库` | GitHub 最新版本 |
 
-## 十四、综合/元工具
+## 十四、自建部署方案
+
+当公共实例不可用时，可以 fork 项目自建：
+
+| 方案 | 适用项目 | 说明 |
+|------|---------|------|
+| Vercel 一键部署 | github-readme-stats / github-profile-summary-cards / readme-jokes | 免费，Fork → Vercel 导入 → 设置 PAT → 部署 |
+| Cloudflare Workers | github-readme-stats 自制 | 免费，每天 10 万请求，全球边缘网络 |
+| Docker 自托管 | github-readme-stats | 有 VPS 可用，完全掌控缓存和配额 |
+| Railway 一键部署 | github-readme-stats | 有免费额度，无需管理运维 |
+| GitHub Action 生成 | stats-transparent / 3d-contrib / summary-cards | 无需服务器，Action 定时生成 SVG 推送到仓库 |
+
+## 十五、综合/元工具
 
 | 工具 | 链接 | 说明 | 状态 |
 |------|------|------|------|
@@ -178,6 +191,10 @@
 | galaxy-profile | `https://github.com/vinimlo/galaxy-profile` | 星系风格个人主页（需 Action） | ✅ 趣味 |
 | statsvg-rs | `https://github.com/akshay2211/statsvg_rs` | Rust 渲染 SVG 统计卡（无服务器，Action 生成） | ✅ 创新方案 |
 | GitSkins | `https://devpost.com/software/gitskins` | Gemini 3 驱动的个人主页生成器 | ✅ AI 工具 |
+| RepoVerse | `https://github.com/nimaldanyathk/repo-verse` | 仓库星系动画（Action 生成，零配置） | ✅ 趣味 |
+| Stack Universe | `https://stack-universe.vercel.app` | 3D 太阳系仓库卡片（免登录嵌入） | ✅ 趣味 |
+| octocanvas | `https://github.com/github/octocanvas` | GitHub 官方 — 主题收藏卡片生成器 | ✅ GitHub 官方 |
+| GitWrap | `https://gitwrap.vercel.app` | 年度编码回顾卡片（免登录） | ✅ 年度回顾 |
 | octocanvas | `https://github.com/github/octocanvas` | GitHub 官方 — 主题收藏卡片生成器 | ✅ GitHub 官方 |
 | GitWrap | `https://gitwrap.vercel.app` | 年度编码回顾卡片（免登录） | ✅ 年度回顾 |
 | github-profile-readme-generator | `https://rahuldkjain.github.io/gh-profile-readme-generator/` | Web UI 生成器 | ✅ 在线工具 |
@@ -186,7 +203,7 @@
 | readme.so | `https://readme.so/` | 拖拽式 README 编辑器 | ✅ 在线工具 |
 | profileme.dev | `https://www.profileme.dev/` | 快速创建个人主页 | ✅ 在线工具 |
 
-## 十五、精选模板
+## 十六、精选模板
 
 | 仓库 | 链接 | 说明 |
 |------|------|------|

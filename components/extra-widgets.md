@@ -18,6 +18,9 @@
 | [Stylish Readme](https://stylishengine.app) | 实时时钟/时区/连胜/编码追踪小部件 | ⭐ 趣味 |
 | [digital-svg-clock](https://www.npmjs.com/package/digital-svg-clock) | 实时数字时钟 SVG（SMIL 动画） | ✅ 趣味 |
 | [GodProfile MCP](https://github.com/Luc0-0/GodProfile) | 16 种动画 SVG（终端/3D地球/神经网络图/Spotify 均衡器等） | ⭐ 创意 |
+| [RepoVerse](https://github.com/nimaldanyathk/repo-verse) | 仓库星系动画（Action，零配置） | ⭐ 趣味 |
+| [Stack Universe](https://stack-universe.vercel.app) | 3D 太阳系仓库卡片（免登录嵌入） | ⭐ 趣味 |
+| [WeebProfile](https://github.com/LucasHenriqueDiniz/WeebProfile) | Anime + Last.fm 统计卡（需 Action） | ⭐ 二次元
 | [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) | 正在播放 Spotify | 需登录 |
 | [novatorem](https://github.com/novatorem/novatorem) | Spotify 替代方案 | 需登录 |
 | [chess-com-stats](https://github.com/Balastrong/chess-com-stats) | 国际象棋统计 | 可选 |
