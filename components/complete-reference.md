@@ -1,6 +1,6 @@
 <!--
   ProfileMax 工具百科 — GitHub Profile README 生态完整索引
-  收录已知的所有免费工具/服务（约 100+）
+  收录已知的所有免费工具/服务（约 110+）
   分类：统计数据 / 奖杯成就 / 徽章图标 / 技术栈 / 动效 / 音乐媒体 / 社交活动 / 项目卡片 / 访客计数 / 趣味 / 生成器 / 模板 / 综合
 -->
 
@@ -27,6 +27,9 @@
 | github-stats-terminal-style | `https://github.com/yogeshwaran01/github-stats-terminal-style` | 终端风格统计 | ✅ 稳定 |
 | Codeforces Readme Stats | `https://codeforces-readme-stats.vercel.app/api/card?username=` | 算法竞赛平台 Codeforces 数据卡 | ✅ 竞赛玩家 |
 | GitHub Streak Widget | `https://github-streak-widget.vercel.app` | Duolingo 风格连胜徽章 | ✅ 趣味 |
+| LeetCode Stats Card | `https://leetcard.jacoblin.cool/` | LeetCode 刷题统计卡 | ✅ 竞赛玩家 |
+| Stats-SVG | `https://github.com/gh0stintheshe11/Stats-SVG` | 赛博朋克风格 GitHub+LeetCode+Steam 综合统计（需自建） | ✅ 多合一 |
+| advanced-metrics | `https://github.com/Ivan-Corporation/advanced-metrics` | Action 驱动的 GitHub 进阶统计信息图 | ✅ 需 Action |
 
 ## 二、成就奖杯
 

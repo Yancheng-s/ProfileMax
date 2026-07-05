@@ -14,6 +14,10 @@
 | [GitHub Streak Widget](https://github-streak-widget.vercel.app) | Duolingo 风格连胜徽章 | ⭐ 趣味 |
 | [GitWrap](https://gitwrap.vercel.app) | 年度编码回顾卡片（免登录） | ⭐ 年度回顾 |
 | [octocanvas](https://github.com/github/octocanvas) | GitHub 官方收藏卡片 | 官方 |
+| [LeetCode Stats Card](https://leetcard.jacoblin.cool/) | LeetCode 刷题统计（主题可选） | ⭐ 竞赛玩家 |
+| [Stylish Readme](https://stylishengine.app) | 实时时钟/时区/连胜/编码追踪小部件 | ⭐ 趣味 |
+| [digital-svg-clock](https://www.npmjs.com/package/digital-svg-clock) | 实时数字时钟 SVG（SMIL 动画） | ✅ 趣味 |
+| [GodProfile MCP](https://github.com/Luc0-0/GodProfile) | 16 种动画 SVG（终端/3D地球/神经网络图/Spotify 均衡器等） | ⭐ 创意 |
 | [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) | 正在播放 Spotify | 需登录 |
 | [novatorem](https://github.com/novatorem/novatorem) | Spotify 替代方案 | 需登录 |
 | [chess-com-stats](https://github.com/Balastrong/chess-com-stats) | 国际象棋统计 | 可选 |
