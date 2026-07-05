@@ -1,6 +1,6 @@
 <!--
   ProfileMax 工具百科 — GitHub Profile README 生态完整索引
-  收录已知的所有免费工具/服务（约 130+）
+  收录已知的所有免费工具/服务（约 140+）
   分类：统计数据 / 奖杯成就 / 徽章图标 / 技术栈 / 动效 / 音乐媒体 / 社交活动 / 项目卡片 / 访客计数 / 趣味 / 生成器 / 模板 / 综合
 -->
 
@@ -99,7 +99,11 @@
 | chess-com-stats | `https://github.com/Balastrong/chess-com-stats` | 国际象棋统计 | ✅ 可选 |
 | goodreads-readme | `https://github.com/Yizack/goodreads-readme` | 正在读的书 | ✅ 可选 |
 | youtube-stats | `https://github.com/DenverCoder1/github-readme-youtube-stats` | YouTube 订阅数 | ✅ 可选 |
+| Codewars Stats | `https://github.r2v.ch/codewars?user=` | Codewars 编程挑战数据（等级/荣誉/完成数） | ✅ 竞赛玩家 |
+| Advent of Code | shields.io 自定义 | 每年 Advent of Code 完成星数 | 自定义 |
 | Social-Media-Card | `https://github.com/Code-X-SL/Social-Media-Card` | WhatsApp/Telegram/TikTok 社交预览卡片 | ✅ 可选 |
+| Bluesky Followers | `https://img.shields.io/badges/bluesky-followers?actor=` | Bluesky 粉丝数（官方 shields.io 端点） | ✅ 社交 |
+| Mastodon Follow | `https://img.shields.io/badges/mastodon-follow?id=&domain=` | Mastodon 粉丝数（官方 shields.io 端点） | ✅ 社交 |
 
 ## 八、社交与博客
 
