@@ -1,6 +1,6 @@
 <!--
   ProfileMax 工具百科 — GitHub Profile README 生态完整索引
-  收录已知的所有免费工具/服务（约 110+）
+  收录已知的所有免费工具/服务（约 120+）
   分类：统计数据 / 奖杯成就 / 徽章图标 / 技术栈 / 动效 / 音乐媒体 / 社交活动 / 项目卡片 / 访客计数 / 趣味 / 生成器 / 模板 / 综合
 -->
 
@@ -98,6 +98,7 @@
 | chess-com-stats | `https://github.com/Balastrong/chess-com-stats` | 国际象棋统计 | ✅ 可选 |
 | goodreads-readme | `https://github.com/Yizack/goodreads-readme` | 正在读的书 | ✅ 可选 |
 | youtube-stats | `https://github.com/DenverCoder1/github-readme-youtube-stats` | YouTube 订阅数 | ✅ 可选 |
+| Social-Media-Card | `https://github.com/Code-X-SL/Social-Media-Card` | WhatsApp/Telegram/TikTok 社交预览卡片 | ✅ 可选 |
 
 ## 八、社交与博客
 
@@ -153,7 +154,20 @@
 | socialify | `https://socialify.git.ci/` | 社交风格项目图片 | ✅ 可选 |
 | star-history | `https://star-history.com/` | Stars 增长图 | ✅ 可选 |
 
-## 十二、综合/元工具
+## 十二、包下载徽章 (Shields.io)
+
+使用 shields.io 显示各平台包下载量，直接嵌入 README：
+
+| 平台 | 示例 URL | 说明 |
+|------|---------|------|
+| npm | `https://img.shields.io/npm/dm/包名` | npm 月下载量 |
+| PyPI | `https://img.shields.io/pypi/dm/包名` | PyPI 月下载量 |
+| Docker Hub | `https://img.shields.io/docker/pulls/用户/仓库` | Docker 拉取总数 |
+| Cargo | `https://img.shields.io/crates/d/包名` | Rust Cargo 下载量 |
+| Chocolatey | `https://img.shields.io/chocolatey/dt/包名` | Chocolatey 总下载量 |
+| GitHub Release | `https://img.shields.io/github/v/release/用户/仓库` | GitHub 最新版本 |
+
+## 十四、综合/元工具
 
 | 工具 | 链接 | 说明 | 状态 |
 |------|------|------|------|
@@ -172,7 +186,7 @@
 | readme.so | `https://readme.so/` | 拖拽式 README 编辑器 | ✅ 在线工具 |
 | profileme.dev | `https://www.profileme.dev/` | 快速创建个人主页 | ✅ 在线工具 |
 
-## 十三、精选模板
+## 十五、精选模板
 
 | 仓库 | 链接 | 说明 |
 |------|------|------|
