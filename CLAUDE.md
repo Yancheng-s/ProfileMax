@@ -21,7 +21,8 @@ ProfileMax/
 │   ├── badges.md                      # 徽章/图标
 │   ├── animations.md                  # 动效
 │   ├── content-sections.md            # 内容区块
-│   └── actions.md                     # GitHub Actions 配置
+│   ├── actions.md                     # GitHub Actions 配置
+│   └── extra-widgets.md              # 额外小部件（笑话/名言/3D图）
 ├── examples/
 │   └── complete-example.md            # 完整示例页面
 └── .github/workflows/
