@@ -10,6 +10,10 @@
 | [readme-jokes](https://github.com/ajyan/readme-jokes) | 编程笑话（可自建 Vercel 实例） | ⭐ 推荐 |
 | [github-readme-quotes](https://github.com/cheehwatang/github-readme-daily-quotes) | 开发名言（可自建 Vercel 实例） | ⭐ 推荐 |
 | [random-meme](https://github.com/techytushar/random-meme) | 随机编程梗图 | 趣味 |
+| [Codeforces Readme Stats](https://codeforces-readme-stats.vercel.app/api/card?username=) | 算法竞赛 Codeforces 数据卡 | ⭐ 竞赛玩家 |
+| [GitHub Streak Widget](https://github-streak-widget.vercel.app) | Duolingo 风格连胜徽章 | ⭐ 趣味 |
+| [GitWrap](https://gitwrap.vercel.app) | 年度编码回顾卡片（免登录） | ⭐ 年度回顾 |
+| [octocanvas](https://github.com/github/octocanvas) | GitHub 官方收藏卡片 | 官方 |
 | [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) | 正在播放 Spotify | 需登录 |
 | [novatorem](https://github.com/novatorem/novatorem) | Spotify 替代方案 | 需登录 |
 | [chess-com-stats](https://github.com/Balastrong/chess-com-stats) | 国际象棋统计 | 可选 |
@@ -121,6 +125,41 @@ jobs:
 
 ```markdown
 <img src="https://raw.githubusercontent.com/{{USERNAME}}/{{USERNAME}}/main/profile-3d-contrib/profile-night-rainbow.svg" />
+```
+
+---
+
+## Codeforces 竞赛数据卡 (Codeforces Readme Stats)
+
+适用于参与算法竞赛的开发者：
+
+```markdown
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourCodeforcesHandle)
+```
+
+主题色：
+```markdown
+![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=YourHandle&theme=dark&disable_animations=true)
+```
+
+---
+
+## Octocanvas (GitHub 官方收藏卡)
+
+GitHub 官方项目，生成个人风格收藏卡片：
+
+```markdown
+![Octocard](https://octocanvas.vercel.app/api/card?username={{USERNAME}})
+```
+
+---
+
+## GitWrap 年度回顾卡
+
+生成年度编码回顾卡片，无需登录：
+
+```markdown
+![GitWrap](https://gitwrap.vercel.app/api/card?username={{USERNAME}})
 ```
 
 ---

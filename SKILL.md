@@ -56,7 +56,9 @@ e. 访客计数器
 f. 贪吃蛇动画 (需要配置 GitHub Action)
 g. 编程笑话 / 每日名言
 h. 3D 贡献图 (需要配置 GitHub Action)
-i. 都不要
+i. 年度编码回顾 GitWrap
+j. Codeforces 竞赛数据卡 (仅竞赛玩家)
+k. 都不要
 ```
 
 ### 第二步：拼接 README

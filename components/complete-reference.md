@@ -1,6 +1,6 @@
 <!--
   ProfileMax 工具百科 — GitHub Profile README 生态完整索引
-  收录已知的所有免费工具/服务（约 80+）
+  收录已知的所有免费工具/服务（约 100+）
   分类：统计数据 / 奖杯成就 / 徽章图标 / 技术栈 / 动效 / 音乐媒体 / 社交活动 / 项目卡片 / 访客计数 / 趣味 / 生成器 / 模板 / 综合
 -->
 
@@ -14,6 +14,8 @@
 
 | 工具 | 链接 | 说明 | 状态 |
 |------|------|------|------|
+| 工具 | 链接 | 说明 | 状态 |
+|------|------|------|------|
 | gh-stats.com | `https://gh-stats.com/api?username=` | Stats + Top Langs + Pin 卡片替代品 | ✅ 推荐 |
 | github-readme-stats | `https://github-readme-stats.vercel.app/api?username=` | OG 统计卡片（Stars/Commits/PRs等） | ⚠️ 偶有过载 |
 | github-readme-streak-stats | `https://github-readme-streak-stats.herokuapp.com/?user=` | 连续提交跟踪 | ✅ 稳定 |
@@ -23,6 +25,8 @@
 | github-stats-transparent | `https://github.com/rahul-jha98/github-stats-transparent` | 透明背景统计卡片（需 Action） | ✅ 需自建 |
 | awesome-github-stats | `https://github.com/brunobritodev/awesome-github-stats` | 干净准确的贡献数据卡 | ✅ 稳定 |
 | github-stats-terminal-style | `https://github.com/yogeshwaran01/github-stats-terminal-style` | 终端风格统计 | ✅ 稳定 |
+| Codeforces Readme Stats | `https://codeforces-readme-stats.vercel.app/api/card?username=` | 算法竞赛平台 Codeforces 数据卡 | ✅ 竞赛玩家 |
+| GitHub Streak Widget | `https://github-streak-widget.vercel.app` | Duolingo 风格连胜徽章 | ✅ 趣味 |
 
 ## 二、成就奖杯
 
@@ -45,6 +49,8 @@
 | Badges4-README.md-Profile | `https://github.com/alexandresanlim/Badges4-README.md-Profile` | 头像/社交/技术徽章合集 | ✅ 可选 |
 | custom-icon-badges | `https://github.com/DenverCoder1/custom-icon-badges` | 自定义图标徽章 | ✅ 可选 |
 | gradient-badge | `https://github.com/bokub/gradient-badge` | 渐变色徽章 | ✅ 可选 |
+| Badges Reference | `https://github.com/henriquesebastiao/badges` | 200+ 可直接复制的 Shields.io 徽章合集 | ✅ 复制即用 |
+| mdfx | `https://github.com/blackwell-systems/mdfx` | CLI 生成进度条/仪表盘/波形图 SVG（本地渲染） | ✅ 本地工具 |
 
 ## 四、技术栈图标
 
@@ -53,6 +59,7 @@
 | skill-icons | `https://skillicons.dev/icons?i=` | 整洁技能图标（亮/暗主题） | ✅ 首推 |
 | tech-stack-icons | `https://github.com/marwin1991/profile-technology-icons` | 2000+ 技术栈图标 | ✅ 可选 |
 | devicon | `https://devicon.dev/` | 编程语言图标 | ✅ 可选 |
+| GitHub Readme Tech Stack | `https://github.com/0l1v3rr/github-readme-tech-stack` | 卡片式技术栈展示，可自定义颜色/图标 | ✅ 可选 |
 | profile_stack (Action) | `https://github.com/marketplace/actions/profile_stack` | 自动生成技术栈表格 | ✅ 需 Action |
 
 ## 五、动效
@@ -154,6 +161,8 @@
 | galaxy-profile | `https://github.com/vinimlo/galaxy-profile` | 星系风格个人主页（需 Action） | ✅ 趣味 |
 | statsvg-rs | `https://github.com/akshay2211/statsvg_rs` | Rust 渲染 SVG 统计卡（无服务器，Action 生成） | ✅ 创新方案 |
 | GitSkins | `https://devpost.com/software/gitskins` | Gemini 3 驱动的个人主页生成器 | ✅ AI 工具 |
+| octocanvas | `https://github.com/github/octocanvas` | GitHub 官方 — 主题收藏卡片生成器 | ✅ GitHub 官方 |
+| GitWrap | `https://gitwrap.vercel.app` | 年度编码回顾卡片（免登录） | ✅ 年度回顾 |
 | github-profile-readme-generator | `https://rahuldkjain.github.io/gh-profile-readme-generator/` | Web UI 生成器 | ✅ 在线工具 |
 | profilinator | `https://profilinator.rishav.dev/` | 可视化 README 生成器 | ✅ 在线工具 |
 | gprm | `https://gprm.itsvg.in/` | GitHub Profile README Maker | ✅ 在线工具 |
