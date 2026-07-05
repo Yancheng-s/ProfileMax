@@ -73,7 +73,7 @@ g. 都不要
 | `{{GITHUB_STATS}}` | github-readme-stats | Stats 卡片 IMG 标签 |
 | `{{TOP_LANGS}}` | github-readme-stats | 语言分布 IMG 标签 |
 | `{{STREAK}}` | github-readme-streak-stats | Streak 卡片 IMG 标签 |
-| `{{TROPHY}}` | github-profile-trophy | 奖杯 IMG 标签 |
+| `{{TROPHY}}` | github-profile-trophy (或 shields.io 替代) | 奖杯 IMG 标签 — 服务不稳定时改用 shields.io 徽章 |
 | `{{ACTIVITY_GRAPH}}` | github-readme-activity-graph | 折线图 IMG 标签 |
 | `{{TYPING_SVG}}` | readme-typing-svg | 打字动画 IMG 标签 |
 | `{{SOCIAL_LINKS}}` | 用户提供的社交账号 | shield.io 徽章行 |
