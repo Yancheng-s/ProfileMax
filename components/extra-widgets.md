@@ -7,8 +7,8 @@
 
 | 工具 | 用途 | 推荐度 |
 |------|------|--------|
-| [readme-jokes](https://readme-jokes.vercel.app/api) | 编程笑话 | ⭐ 推荐 |
-| [github-readme-quotes](https://github-readme-quotes.herokuapp.com/quote) | 开发名言 | ⭐ 推荐 |
+| [readme-jokes](https://github.com/ajyan/readme-jokes) | 编程笑话（可自建 Vercel 实例） | ⭐ 推荐 |
+| [github-readme-quotes](https://github.com/cheehwatang/github-readme-daily-quotes) | 开发名言（可自建 Vercel 实例） | ⭐ 推荐 |
 | [random-meme](https://github.com/techytushar/random-meme) | 随机编程梗图 | 趣味 |
 | [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) | 正在播放 Spotify | 需登录 |
 | [novatorem](https://github.com/novatorem/novatorem) | Spotify 替代方案 | 需登录 |
@@ -17,6 +17,19 @@
 | [youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) | YouTube 订阅数 | 可选 |
 | [lowlighter/metrics](https://github.com/lowlighter/metrics) | 40+ 插件信息图生成器 | ⭐ 推荐 |
 | [coolreadme.xyz](https://coolreadme.xyz) | 34+ 卡片（宠物/Netflix/Steam/YC/HN等） | ⭐ 推荐（见下方） |
+
+> 注：以上公共实例偶有过载，如需稳定使用可 fork 对应仓库并自建 Vercel 实例。
+
+## 自建指南
+
+如果公共实例不可用，可以 fork 项目到自己账号，一键部署到免费 Vercel：
+
+| 项目 | 一键部署 |
+|------|---------|
+| readme-jokes | Fork → Vercel 导入 → 自动部署 |
+| github-readme-daily-quotes | Fork → Vercel 导入 → 自动部署 |
+| github-profile-summary-cards | Fork → Vercel 导入 → 自动部署 |
+| github-readme-stats | Fork → 创建 PAT → Vercel 导入 → 设置 `PAT_1` 环境变量 → 部署 |
 
 ## coolreadme.xyz 卡片（2026 新兴平台）
 
@@ -50,22 +63,23 @@
 
 ## 每日名言 (github-readme-quotes)
 
+> 注意：Heroku 版已下线，使用 PiyushSuthar 的 Vercel 版本。
+
 ```markdown
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ```
 
 主题色：
 ```markdown
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 ```
 
 参数：
 
 | 参数 | 说明 |
 |------|------|
+| `type` | 布局：`horizontal`, `vertical` |
 | `theme` | 主题：dark, radical, dracula, tokyonight 等 |
-| `animation` | 动画：grow_out_in, fade_in, fade_out 等 |
-| `layout` | 布局：default, modern |
 
 ---
 

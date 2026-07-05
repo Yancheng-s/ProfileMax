@@ -73,7 +73,7 @@
 | 工具 | 链接 | 说明 | 状态 |
 |------|------|------|------|
 | readme-jokes | `https://readme-jokes.vercel.app/api` | 程序员笑话 | ✅ 推荐 |
-| github-readme-quotes | `https://github-readme-quotes.herokuapp.com/quote` | 开发名言 | ✅ 推荐 |
+| github-readme-quotes | `https://quotes-github-readme.vercel.app/api?type=horizontal` | 开发名言 | ✅ 推荐 |
 | random-meme | `https://github.com/techytushar/random-meme` | 随机编程梗图 | ✅ 可选 |
 
 ## 七、音乐与媒体

@@ -98,11 +98,47 @@
 
 <div align="center">
 
-<div align="center">
-
 [![Readme Card](https://gh-stats.com/api/pin?username=Yancheng-s&repo=ProfileMax&hide_border=true)](https://github.com/Yancheng-s/ProfileMax)
 
 </div>
+
+---
+
+### 每日一言
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula">
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dracula">
+
+</div>
+
+---
+
+### 统计快照
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Yancheng-s?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=A78BFA&labelColor=1A1B27">
+<img src="https://img.shields.io/github/stars/Yancheng-s?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=FFD700&labelColor=1A1B27">
+<img src="https://img.shields.io/github/license/Yancheng-s/ProfileMax?style=for-the-badge&label=ProfileMax%20License&color=00D26A&labelColor=1A1B27">
+
+</div>
+
+---
+
+### 综合数据看板
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yancheng-s&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yancheng-s&theme=dracula">
 
 </div>
 
@@ -110,6 +146,7 @@
 
 ### 任务日志（最新博文）
 
+<!-- 配置 blog-post-workflow 后自动更新 -->
 <!-- BLOG-POSTS:START -->
 暂无博文 -- 配置 blog-post-workflow 后自动更新
 <!-- BLOG-POSTS:END -->
