@@ -73,7 +73,7 @@ g. 都不要
 | `{{GITHUB_STATS}}` | github-readme-stats | Stats 卡片 IMG 标签 |
 | `{{TOP_LANGS}}` | github-readme-stats | 语言分布 IMG 标签 |
 | `{{STREAK}}` | github-readme-streak-stats | Streak 卡片 IMG 标签 |
-| `{{TROPHY}}` | github-profile-trophy (或 shields.io 替代) | 奖杯 IMG 标签 — 服务不稳定时改用 shields.io 徽章 |
+| `{{TROPHY}}` | github-profile-trophy (镜像) | 奖杯 IMG 标签 |
 | `{{ACTIVITY_GRAPH}}` | github-readme-activity-graph | 折线图 IMG 标签 |
 | `{{TYPING_SVG}}` | readme-typing-svg | 打字动画 IMG 标签 |
 | `{{SOCIAL_LINKS}}` | 用户提供的社交账号 | shield.io 徽章行 |
@@ -217,9 +217,7 @@ rm -rf profilemax-deploy
 
 ## 重要规则
 
-1. **github-profile-trophy 公共实例不可靠** — 主实例 `github-profile-trophy.vercel.app` 因用户过多频繁过载。可用社区镜像 `trophy.ryglcloud.net` 或 `gh-trophy.cdnsoft.net` 替代。
-2. **github-readme-stats 公共实例可能有延迟** — 如果统计卡片不显示，添加 `&v=timestamp` 参数强制刷新缓存。
-3. 生成 README 时，所有 `{{USERNAME}}` 必须替换为实际的用户名，不要留占位符让用户自己改
+1. 生成 README 时，所有 `{{USERNAME}}` 必须替换为实际的用户名，不要留占位符让用户自己改
 2. 如果用户没给技术栈，不要瞎编 — 问清楚再继续
 3. skill-icons 优先于 shields.io 展示技术栈（更好看、更统一）
 4. 所有 shields.io 徽章的 logo 参数用官方 slug（小写），不要自定义

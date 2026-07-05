@@ -63,8 +63,6 @@
 
 ## Trophy 成就奖杯
 
-> **注意：** 主实例 `github-profile-trophy.vercel.app` 因流量过大常有过载。如果图片不显示，尝试更换为社区镜像，如 `github-profile-trophy-liard-delta.vercel.app`。
-
 ```markdown
 ![trophy](https://github-profile-trophy.vercel.app/?username={{USERNAME}}&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 ```
