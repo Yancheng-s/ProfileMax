@@ -1,16 +1,31 @@
 <!--
   组件：统计卡片
-  服务：github-readme-stats, github-readme-streak-stats, github-profile-trophy, github-readme-activity-graph
+  分类：统计数据 / 成就奖杯 / 活动图
 -->
+
+## 可用工具总览
+
+| 工具 | 用途 | 推荐度 |
+|------|------|--------|
+| [gh-stats.com](https://gh-stats.com) | Stats + Top Langs + Pin 卡片（推荐替代） | ⭐ 首推 |
+| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | OG 统计卡片（公共实例偶有过载） | 备选 |
+| [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | 连续提交跟踪（50+ 主题） | ⭐ 首推 |
+| [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) | 成就奖杯（主实例不稳，见下方镜像） | ⭐ 首推 |
+| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | 31 天活动折线图 | ⭐ 首推 |
+| [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | 多卡片个人数据总览 | 可选 |
+| [profile-summary-for-github](https://profile-summary-for-github.netlify.app) | 全页数据看板 | 可选 |
+| [awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) | 干净贡献数据卡 | 可选 |
+| [github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) | 终端风格统计 | 趣味 |
+| [github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) | 透明背景统计卡（需 Action） | 进阶 |
+| [GitStrength](https://gitstrength.netlify.app) | 连胜卡 + 技能徽章 + 访客计数 | 可选 |
 
 ## GitHub Stats 卡片
 
-基础用法：
 ```markdown
-![{{USERNAME}}'s GitHub stats](https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&count_private=true&hide_border=true)
+![Stats](https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&count_private=true&hide_border=true)
 ```
 
-常用参数：
+参数：
 
 | 参数 | 说明 | 推荐值 |
 |------|------|--------|
@@ -62,9 +77,14 @@
 
 ## Trophy 成就奖杯
 
+主实例（偶有过载）：
 ```markdown
 ![trophy](https://github-profile-trophy.vercel.app/?username={{USERNAME}}&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 ```
+
+社区镜像（推荐）：
+- `https://trophy.ryglcloud.net/?username={{USERNAME}}&theme=dracula&no-frame=true`
+- `https://gh-trophy.cdnsoft.net/?username={{USERNAME}}&theme=dracula&no-frame=true`
 
 参数：
 

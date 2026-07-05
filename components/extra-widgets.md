@@ -1,7 +1,39 @@
 <!--
   组件：额外小部件
-  服务：readme-jokes, github-readme-quotes, github-profile-3d-contrib, profile-summary-for-github, github-profile-summary-cards
+  分类：编程笑话 / 每日名言 / 音乐媒体 / 趣味 / 综合
 -->
+
+## 可用工具总览
+
+| 工具 | 用途 | 推荐度 |
+|------|------|--------|
+| [readme-jokes](https://readme-jokes.vercel.app/api) | 编程笑话 | ⭐ 推荐 |
+| [github-readme-quotes](https://github-readme-quotes.herokuapp.com/quote) | 开发名言 | ⭐ 推荐 |
+| [random-meme](https://github.com/techytushar/random-meme) | 随机编程梗图 | 趣味 |
+| [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) | 正在播放 Spotify | 需登录 |
+| [novatorem](https://github.com/novatorem/novatorem) | Spotify 替代方案 | 需登录 |
+| [chess-com-stats](https://github.com/Balastrong/chess-com-stats) | 国际象棋统计 | 可选 |
+| [goodreads-readme](https://github.com/Yizack/goodreads-readme) | 正在读的书 | 可选 |
+| [youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) | YouTube 订阅数 | 可选 |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 40+ 插件信息图生成器 | ⭐ 推荐 |
+| [coolreadme.xyz](https://coolreadme.xyz) | 34+ 卡片（宠物/Netflix/Steam/YC/HN等） | ⭐ 推荐（见下方） |
+
+## coolreadme.xyz 卡片（2026 新兴平台）
+
+34+ 种免费卡片，无需注册。部分热门类型：
+
+| 卡片 | 说明 |
+|------|------|
+| 宠物连胜卡 🦊🐧🦉🐱🐶 | 9 阶段进化，根据提交连胜天数自动进化 |
+| Y Combinator 卡片 | 公司名称/批次/状态（launching/hiring/stealth） |
+| Hacker News 卡片 | Show HN / Ask HN / Launch HN |
+| Linear 卡片 | 任务进度 Backlog → In Progress → Done |
+| Letterboxd 卡片 | 电影评分（5星制） |
+| Duolingo 卡片 | 语言学习连胜（含猫头鹰表情） |
+| Netflix 卡片 | 影视卡片风格 |
+| Steam 卡片 | 游戏平台风格 |
+| AI Identity 卡片 | AI 开发者身份标识 |
+| Spotify 正在播放 | 音乐卡片风格 |
 
 ## 编程笑话 (readme-jokes)
 

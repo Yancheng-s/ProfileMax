@@ -218,6 +218,16 @@ rm -rf profilemax-deploy
 | GitHub Actions 自动更新 | components/actions.md |
 | 编程笑话 / 每日名言 / 3D 贡献图 | components/extra-widgets.md |
 
+## 工具百科
+
+ProfileMax 收录了 GitHub 生态中约 **80+ 个免费工具/服务**的完整索引，按 13 个分类整理：
+
+- 统计数据 · 成就奖杯 · 徽章图标 · 技术栈图标 · 动效
+- 趣味内容 · 音乐媒体 · 社交博客 · CoolReadme 34+ 卡片
+- 访客计数 · 项目卡片 · 综合工具 · 精选模板
+
+详见：**[components/complete-reference.md](components/complete-reference.md)**
+
 ## 重要规则
 
 1. 生成 README 时，所有 `{{USERNAME}}` 必须替换为实际的用户名，不要留占位符让用户自己改

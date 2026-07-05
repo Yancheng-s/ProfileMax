@@ -16,13 +16,14 @@ ProfileMax/
 │   ├── gamified.md                    # 游戏化
 │   ├── creative.md                    # 创意·卡片
 │   └── professional.md                # 专业·商务
-├── components/                        # 可插拔组件
-│   ├── stats.md                       # 统计卡片
-│   ├── badges.md                      # 徽章/图标
-│   ├── animations.md                  # 动效
-│   ├── content-sections.md            # 内容区块
-│   ├── actions.md                     # GitHub Actions 配置
-│   └── extra-widgets.md              # 额外小部件（笑话/名言/3D图）
+├── components/                        # 组件 + 工具百科（80+ 工具/服务）
+│   ├── complete-reference.md          # 工具百科索引（13 分类，80+ 工具）
+│   ├── stats.md                       # 统计卡片工具（10 种服务）
+│   ├── badges.md                      # 徽章/图标/访客计数（16 种服务）
+│   ├── animations.md                  # 动效/趣味（10 种服务）
+│   ├── content-sections.md            # 内容区块（11 种服务）
+│   ├── actions.md                     # GitHub Actions（7 种 Action）
+│   └── extra-widgets.md               # 音乐/媒体/综合卡片（10+ 种）
 ├── examples/
 │   └── complete-example.md            # 完整示例页面
 └── .github/workflows/

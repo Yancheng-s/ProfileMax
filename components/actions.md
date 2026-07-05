@@ -3,6 +3,18 @@
   说明：提供常用的 GitHub Actions 工作流，用于自动更新 README 数据
 -->
 
+## 可用 Action 总览
+
+| Action | 用途 | 推荐度 |
+|--------|------|--------|
+| [Platane/snk](https://github.com/Platane/snk) | 贪吃蛇动画 | ⭐ 首推 |
+| [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) | 博客文章自动更新 | ⭐ 首推 |
+| [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | WakaTime 编码统计 | ⭐ 推荐 |
+| [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) | 最近 GitHub 活动 | 可选 |
+| [yoshi389111/3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | 3D 贡献图 | ⭐ 推荐 |
+| [profile_stack](https://github.com/gleich/profile_stack) | 自动生成技术栈表格 | 可选 |
+| [rahul-jha98/stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) | 透明背景统计卡 | 进阶 |
+
 ## 1. 贪吃蛇动画工作流
 
 文件位置：`.github/workflows/snake.yml`

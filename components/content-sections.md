@@ -1,7 +1,23 @@
 <!--
   组件：内容区块
-  说明：关于我、博客文章、项目展示、社交链接
+  分类：关于我 / 博客文章 / 项目展示 / 社交链接
 -->
+
+## 可用工具总览
+
+| 工具 | 用途 | 推荐度 |
+|------|------|--------|
+| [blog-post-workflow (Action)](https://github.com/gautamkrishnar/blog-post-workflow) | 自动更新博客文章（RSS/知乎/掘金等） | ⭐ 首推 |
+| [github-activity-readme (Action)](https://github.com/jamesgeorge007/github-activity-readme) | 最近 GitHub 活动 | ⭐ 推荐 |
+| [gh-stats.com pin](https://gh-stats.com) | 项目展示卡片 | ⭐ 首推 |
+| [socialify](https://socialify.git.ci) | 社交风格项目图片 | 可选 |
+| [star-history](https://star-history.com) | Stars 增长图 | 可选 |
+| [github-readme-linkedin](https://github.com/JithenKS/github-readme-linkedin) | LinkedIn 资料卡 | 可选 |
+| [github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) | StackOverflow 积分 | 可选 |
+| [github-readme-twitter](https://github.com/gazf/github-readme-twitter) | 最新推文 | 可选 |
+| [waka-readme-stats (Action)](https://github.com/anmol098/waka-readme-stats) | WakaTime 编码统计 | ⭐ 推荐 |
+| [lanyard-profile-readme](https://github.com/Phineas/lanyard-profile-readme) | Discord 在线状态 | 可选 |
+| [todoist-readme](https://github.com/abhisheknaiidu/todoist-readme) | Todoist 任务统计 | 可选 |
 
 ## 关于我
 

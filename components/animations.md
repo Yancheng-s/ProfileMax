@@ -1,7 +1,23 @@
 <!--
   组件：动效
-  服务：readme-typing-svg, Platane/snk (贪吃蛇), capsule-render (波浪头图)
+  分类：打字动画 / 贪吃蛇 / 波浪头图 / 3D 贡献图
 -->
+
+## 可用工具总览
+
+| 工具 | 用途 | 推荐度 |
+|------|------|--------|
+| [readme-typing-svg](https://readme-typing-svg.demolab.com) | 打字动画 | ⭐ 首推 |
+| [snk (贪吃蛇)](https://github.com/Platane/snk) | 贡献图变贪吃蛇（需 Action） | ⭐ 首推 |
+| [capsule-render](https://github.com/kyechan99/capsule-render) | 波浪头图/页脚 | ⭐ 首推 |
+| [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | 3D 贡献日历（需 Action） | ⭐ 推荐 |
+| [skyline (官方)](https://skyline.github.com) | 3D 城市天际线 | 官方 |
+| [github-spray](https://github.com/Annihil/github-spray) | 在贡献图画图 | 趣味 |
+| [REHeader](https://github.com/khalby786/REHeader) | 页眉图片生成器 | 可选 |
+| [svg-banners](https://github.com/Akshay090/svg-banners) | SVG 横幅 | 可选 |
+| [readme-jokes](https://readme-jokes.vercel.app/api) | 编程笑话 | ⭐ 推荐 |
+| [github-readme-quotes](https://github-readme-quotes.herokuapp.com/quote) | 开发名言 | ⭐ 推荐 |
+| [random-meme](https://github.com/techytushar/random-meme) | 随机编程梗图 | 趣味 |
 
 ## Typing SVG 打字动画
 
