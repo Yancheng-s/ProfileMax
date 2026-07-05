@@ -70,8 +70,8 @@ g. 都不要
 | `{{ABOUT_ME}}` | 用户输入的关于我 | 可省略 |
 | `{{TECH_STACK_ICONS}}` | skill-icons | 根据技术栈生成 |
 | `{{TECH_STACK_BADGES}}` | shields.io | 根据技术栈生成 |
-| `{{GITHUB_STATS}}` | github-readme-stats | Stats 卡片 IMG 标签 |
-| `{{TOP_LANGS}}` | github-readme-stats | 语言分布 IMG 标签 |
+| `{{GITHUB_STATS}}` | gh-stats.com | Stats 卡片 IMG 标签 |
+| `{{TOP_LANGS}}` | gh-stats.com | 语言分布 IMG 标签 |
 | `{{STREAK}}` | github-readme-streak-stats | Streak 卡片 IMG 标签 |
 | `{{TROPHY}}` | github-profile-trophy (镜像) | 奖杯 IMG 标签 |
 | `{{ACTIVITY_GRAPH}}` | github-readme-activity-graph | 折线图 IMG 标签 |
@@ -79,7 +79,7 @@ g. 都不要
 | `{{SOCIAL_LINKS}}` | 用户提供的社交账号 | shield.io 徽章行 |
 | `{{BLOG_POSTS}}` | 用户提供的 RSS | 手动列表或 Action 占位 |
 | `{{VISITOR_COUNTER}}` | komarev | 访客计数 IMG |
-| `{{SHOWCASE}}` | 用户指定的仓库 | github-readme-stats pin 卡片 |
+| `{{SHOWCASE}}` | 用户指定的仓库 | gh-stats.com pin 卡片 |
 | `{{SNAKE}}` | Platane/snk | 贪吃蛇 IMG |
 
 ### 第三步：生成 README

@@ -51,7 +51,7 @@
   <tr>
     <th>HP</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1A1B27&rank_icon=github" width="380" />
+      <img src="https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&count_private=true&hide_border=true" width="380" />
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@
   <tr>
     <th>INT</th>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&langs_count=10" width="380" />
+      <img src="https://gh-stats.com/api/top-langs?username={{USERNAME}}&layout=compact&hide_border=true&langs_count=10" width="380" />
     </td>
   </tr>
 </table>

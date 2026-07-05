@@ -47,9 +47,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zhang3&show_icons=true&count_private=true&theme=radical&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zhang3&show_icons=true&count_private=true&theme=default&hide_border=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zhang3&show_icons=true&count_private=true&theme=radical&hide_border=true" width="400" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.com/api?username=Zhang3&show_icons=true&count_private=true&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.com/api?username=Zhang3&show_icons=true&count_private=true&hide_border=true">
+        <img src="https://gh-stats.com/api?username=Zhang3&show_icons=true&count_private=true&hide_border=true" width="400" />
       </picture>
     </td>
     <td>
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang3&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Langs](https://gh-stats.com/api/top-langs?username=Zhang3&layout=compact&hide_border=true&langs_count=8)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Zhang3&theme=radical&no-frame=true&no-bg=true&row=2&column=4)
 
@@ -78,10 +78,10 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang3&repo=awesome-project&theme=radical)](https://github.com/Zhang3/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang3&repo=cli-tool&theme=radical)](https://github.com/Zhang3/cli-tool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang3&repo=react-component-lib&theme=radical)](https://github.com/Zhang3/react-component-lib)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang3&repo=blog&theme=radical)](https://github.com/Zhang3/blog)
+[![Readme Card](https://gh-stats.com/api/pin?username=Zhang3&repo=awesome-project)](https://github.com/Zhang3/awesome-project)
+[![Readme Card](https://gh-stats.com/api/pin?username=Zhang3&repo=cli-tool)](https://github.com/Zhang3/cli-tool)
+[![Readme Card](https://gh-stats.com/api/pin?username=Zhang3&repo=react-component-lib)](https://github.com/Zhang3/react-component-lib)
+[![Readme Card](https://gh-stats.com/api/pin?username=Zhang3&repo=blog)](https://github.com/Zhang3/blog)
 
 </div>
 

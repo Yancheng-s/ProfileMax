@@ -88,8 +88,8 @@ jobs:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username={{USERNAME}}&repo=repo1&theme=radical)](https://github.com/{{USERNAME}}/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username={{USERNAME}}&repo=repo2&theme=radical)](https://github.com/{{USERNAME}}/repo2)
+[![Readme Card](https://gh-stats.com/api/pin?username={{USERNAME}}&repo=repo1)](https://github.com/{{USERNAME}}/repo1)
+[![Readme Card](https://gh-stats.com/api/pin?username={{USERNAME}}&repo=repo2)](https://github.com/{{USERNAME}}/repo2)
 
 </div>
 ```

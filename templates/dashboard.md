@@ -40,10 +40,7 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=0D1117&rank_icon=github">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&count_private=true&theme=default&hide_border=true&rank_icon=github">
-        <img src="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&count_private=true&theme=onedark&hide_border=true&bg_color=0D1117&rank_icon=github" width="400" />
+      <img src="https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&count_private=true&hide_border=true" width="400" />
       </picture>
     </td>
     <td>
@@ -60,10 +57,7 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&langs_count=8">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=default&hide_border=true&langs_count=8">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&langs_count=8" width="400" />
+      <img src="https://gh-stats.com/api/top-langs?username={{USERNAME}}&layout=compact&hide_border=true&langs_count=8" width="400" />
       </picture>
     </td>
     <td>

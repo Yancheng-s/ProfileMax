@@ -7,7 +7,7 @@
 
 基础用法：
 ```markdown
-![{{USERNAME}}'s GitHub stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&count_private=true&theme=radical&hide_border=true)
+![{{USERNAME}}'s GitHub stats](https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&count_private=true&hide_border=true)
 ```
 
 常用参数：
@@ -29,17 +29,16 @@
 ## Top Languages 卡片
 
 ```markdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Langs](https://gh-stats.com/api/top-langs?username={{USERNAME}}&layout=compact&hide_border=true&langs_count=8)
 ```
 
 参数：
 
 | 参数 | 说明 | 推荐值 |
 |------|------|--------|
-| `layout` | 布局 | `compact` / `donut` / `pie` / `donut-vertical` |
+| `layout` | 布局 | `compact` / `donut` / `pie` |
 | `langs_count` | 语言数量 | `6` ~ `10` |
 | `hide` | 隐藏某些语言 | `?hide=html,css` |
-| `exclude_repo` | 排除仓库 | `?exclude_repo=repo1,repo2` |
 
 ---
 
@@ -105,8 +104,8 @@
 ```markdown
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&theme=radical&hide_border=true" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{USERNAME}}&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400" /></td>
+    <td><img src="https://gh-stats.com/api?username={{USERNAME}}&show_icons=true&hide_border=true" width="400" /></td>
+    <td><img src="https://gh-stats.com/api/top-langs?username={{USERNAME}}&layout=compact&hide_border=true&langs_count=8" width="400" /></td>
   </tr>
 </table>
 ```
